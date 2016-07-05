@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mudy]]></title>
+  <link href="http://mudy1993.github.io/atom.xml" rel="self"/>
+  <link href="http://mudy1993.github.io/"/>
+  <updated>2016-07-05T16:45:08+08:00</updated>
+  <id>http://mudy1993.github.io/</id>
+  <author>
+    <name><![CDATA[mudy]]></name>
+    <email><![CDATA[2808050775@qq.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[github?]]></title>
+    <link href="http://mudy1993.github.io/blog/2016/07/05/github/"/>
+    <updated>2016-07-05T16:39:21+08:00</updated>
+    <id>http://mudy1993.github.io/blog/2016/07/05/github</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[mudy]]></title>
+    <link href="http://mudy1993.github.io/blog/2016/07/05/mudy/"/>
+    <updated>2016-07-05T16:32:14+08:00</updated>
+    <id>http://mudy1993.github.io/blog/2016/07/05/mudy</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://mudy1993.github.io/blog/2016/07/05/test/"/>
+    <updated>2016-07-05T15:41:34+08:00</updated>
+    <id>http://mudy1993.github.io/blog/2016/07/05/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[title]]></title>
+    <link href="http://mudy1993.github.io/blog/2016/07/05/title/"/>
+    <updated>2016-07-05T15:38:36+08:00</updated>
+    <id>http://mudy1993.github.io/blog/2016/07/05/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
